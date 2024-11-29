@@ -1,0 +1,4 @@
+package benchmark.jmh_generated;
+public class GraphTraversalBenchmark_BenchmarkState_jmhType extends GraphTraversalBenchmark_BenchmarkState_jmhType_B3 {
+}
+

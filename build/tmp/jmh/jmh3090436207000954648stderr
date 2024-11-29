@@ -1,0 +1,85 @@
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 24 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 19 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 14 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 9 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 4 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<JMH had finished, but forked VM did not exit, are there stray running threads? Waiting 0 seconds more...>
+
+Non-finished threads:
+
+Thread[DestroyJavaVM,5,main]
+  at java.base@17.0.12/java.lang.Object.wait(Native Method)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1313)
+  at java.base@17.0.12/java.lang.Thread.join(Thread.java:1381)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107)
+  at java.base@17.0.12/java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46)
+  at java.base@17.0.12/java.lang.Shutdown.runHooks(Shutdown.java:130)
+  at java.base@17.0.12/java.lang.Shutdown.shutdown(Shutdown.java:185)
+
+
+<shutdown timeout of 30 seconds expired, forcing forked VM to exit>

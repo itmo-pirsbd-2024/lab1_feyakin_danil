@@ -1,0 +1,4 @@
+Benchmark                                      (numEdges)  (numVertices)  Mode  Cnt       Score      Error  Units
+GraphTraversalBenchmark.benchmarkBFS                15000           7500  avgt   20  993984,776 ± 8171,615  ns/op
+GraphTraversalBenchmark.benchmarkDFSIterative       15000           7500  avgt   20  261888,551 ± 2127,579  ns/op
+GraphTraversalBenchmark.benchmarkDFSRecursive       15000           7500  avgt   20  206828,833 ± 1429,197  ns/op

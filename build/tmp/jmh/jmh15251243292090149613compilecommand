@@ -1,0 +1,9 @@
+quiet
+inline,org/openjdk/jmh/infra/Blackhole.consume
+dontinline,org/openjdk/jmh/infra/Blackhole.consumeCPU
+blackhole,org/openjdk/jmh/infra/Blackhole.consumeCompiler
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
